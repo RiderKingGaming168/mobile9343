@@ -1,6 +1,6 @@
 // Mobile Zone storefront demo. Replace STORE_WHATSAPP with your WhatsApp number
 // in international format without + or spaces, e.g. 923001234567.
-const STORE_WHATSAPP = "";
+const STORE_WHATSAPP = "923241209343";
 const products = [
   {id:1,name:"Matte Shield Phone Case",category:"Cases",price:1299,old:1599,symbol:"▣",badge:"BESTSELLER",tone:1},
   {id:2,name:"20W Fast Wall Charger",category:"Charging",price:2499,old:0,symbol:"ϟ",badge:"POPULAR",tone:2},
